@@ -1,0 +1,12 @@
+dataset: MUTAG
+repeat: 5
+seed: 0
+num_encoder_layers: 5
+emb_size: 256
+proj_head_skip: true
+epochs: 100
+batch_size: 16
+lr: 0.0005
+lr_step_rate: 1
+l2: 0.005
+tau: 0.01

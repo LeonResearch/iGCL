@@ -1,0 +1,12 @@
+dataset: IMDB-BINARY
+repeat: 5
+seed: 0
+num_encoder_layers: 2
+emb_size: 512
+proj_head_skip: false
+epochs: 20
+batch_size: 16
+lr: 0.0001
+lr_step_rate: 1
+l2: 0.005
+tau: 5.0

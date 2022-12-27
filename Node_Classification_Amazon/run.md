@@ -1,0 +1,5 @@
+# glac_debug=True https_proxy=http://afp_download_qianyu.lab:CNXMdmPzB11rm53G@10.8.14.12:8080 CUDA_VISIBLE_DEVICES=0 python framework_GLACMT_WA_mod.py --dataset Photo --lr 0.001 --epochs 3000 --num_samples 3000 --flood 13
+  glac_debug=True https_proxy=http://afp_download_qianyu.lab:CNXMdmPzB11rm53G@10.8.14.12:8080 CUDA_VISIBLE_DEVICES=0 python framework_GLACMT_WA_mod.py --dataset Photo --lr 0.001 --epochs 3000 --num_samples 3000
+  glac_debug=True https_proxy=http://afp_download_qianyu.lab:CNXMdmPzB11rm53G@10.8.14.12:8080 CUDA_VISIBLE_DEVICES=0 python framework_GLACMT_WA_mod.py --dataset Photo --lr 0.001 --epochs 3000 --num_samples 3000       
+   glac_debug=True https_proxy=http://afp_download_qianyu.lab:CNXMdmPzB11rm53G@10.8.14.12:8080 CUDA_VISIBLE_DEVICES=5 python framework_GLACMT_WA_mod.py --dataset Photo --lr 0.005 --epochs 600 --num_samples 3000 --vgae_lr 0.001 --lr_step_rate 0.85
+   glac_debug=True https_proxy=http://afp_download_qianyu.lab:CNXMdmPzB11rm53G@10.8.14.12:8080 CUDA_VISIBLE_DEVICES=3 python framework_GLACMT_WA_mod.py --dataset Computers --lr 0.001 --epochs 600 --num_samples 3000 --vgae_lr 0.005 --lr_step_rate 0.85

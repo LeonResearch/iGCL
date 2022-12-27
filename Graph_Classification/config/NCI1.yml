@@ -1,0 +1,12 @@
+dataset: NCI1
+repeat: 5
+seed: 0
+num_encoder_layers: 5
+emb_size: 256
+proj_head_skip: false
+epochs: 100
+batch_size: 32
+lr: 0.0001
+lr_step_rate: 1
+l2: 0.005
+tau: 3.54
