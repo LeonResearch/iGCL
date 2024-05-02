@@ -10,11 +10,10 @@
 ./Node_Classification_Amazon
 ~~
 ## Requirements
-~~
-- torch_geometric
-- omegaconf
-- warmup_scheduler
-~~
+
+    torch_geometric
+    omegaconf
+    warmup_scheduler
 
 ## Graph Classification
 ### IMDB-BINARY
